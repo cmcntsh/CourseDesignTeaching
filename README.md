@@ -224,6 +224,8 @@ You can search online for Bloom's taxonomy and find many figures with descriptiv
 * Solving problems
 * Talking
 * Reflecting
+  * writing
+  * summarize without looking at notes
 * Writing
 * Reading
 * learning goals drive the learning activities
@@ -283,6 +285,7 @@ You can search online for Bloom's taxonomy and find many figures with descriptiv
 * Scratch cards - https://learntbl.ca/if-at-immediate-feedback-assessment-technique/
 * Transparency in Learning and Teaching Resources https://tilthighered.com/tiltexamplesandresources
 * Plickers https://get.plickers.com/
+* Digital workload estimator https://cat.wfu.edu/resources/tools/estimator2/
 
 ## University of Utah Course Resources
 
