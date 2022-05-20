@@ -93,6 +93,44 @@ You can search online for Bloom's taxonomy and find many figures with descriptiv
 | Evaluate | You will | critique a classmate's public speaking skills | by considering whether they conform to specifications outlined in our course textbook. |
 | Create | By the end of the training, we will be able to | formulate | a pedagogically sound learning objective. |
 
+### Assessment and Evaluation
+
+"Useful assessment generates data about what students know and do, rather than merely identifying student weaknesses." - (Turner, 2014)
+
+#### Four Types of Evidence
+
+* Diagnostic
+* Formative
+  * 56 ways to gather evidence of student achievement - https://www.oregon.gov/ode/educator-resources/standards/Documents/CDL%20Digital%20Toolkit/Gathering%20Evidence%20of%20Student%20Achievement.pdf
+  * Embedded Formative Assessment - Dylan Wiliam
+  * Pre-class quizzes
+  * Pre-work for inclass activities
+		* Games, cahoot
+		* Case studies
+		* Jam board
+		* White board
+		* Comprehension questions
+		* Entry tickets to class (activities before class)
+		* Exit ticket to class (something to accomplish during the class to turn in on the way out, work in small groups)
+		* Student response systems (clickers)
+		* Cards with scratch off answers (take on own, or as a group) Amy, I think these are what we use for the TBL scratch cards? https://learntbl.ca/if-at-immediate-feedback-assessment-technique/
+  * Digital learning - card pack available at the book store (Main book store) A lot of activity ideas
+* Evaluative
+  * Completed after the work is done. (Assess student learning.)
+		* Oral presentations
+		* Multiple choice tests
+		* Writing
+		* Case study presentations
+		* Group presentations
+		* Final project, create a game, something that is built
+  * Skills evaluation
+* Summative
+  * May overlap with evaluative
+  * Dissertations
+  * Scholarly projects
+  * Assessments
+  * Portfolio
+
 ## Learning Activity Ideas
 
 ### Quizzes
@@ -143,6 +181,9 @@ You can search online for Bloom's taxonomy and find many figures with descriptiv
 * Efficiency in Learning: Evidence-Based Guidelines to Manage Cognitive Load - Ruth Clark, Frank Nguyen, John Sweller
 * Understanding by Design Second Edition - Grant Wiggins, Jay McTighe
 * Creating Significant Learning Experiences: An Integrated Approach to Designing College Courses - L. Dee Fink
+* 56 ways to gather evidence of student achievement - https://www.oregon.gov/ode/educator-resources/standards/Documents/CDL%20Digital%20Toolkit/Gathering%20Evidence%20of%20Student%20Achievement.pdf
+* Embedded Formative Assessment - Dylan Wiliam https://www.amazon.com/Embedded-Formative-Assessment-practical-strategies/dp/193400930X
+* Scratch cards - https://learntbl.ca/if-at-immediate-feedback-assessment-technique/
 
 ## University of Utah Course Resources
 
