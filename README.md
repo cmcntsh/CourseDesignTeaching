@@ -36,7 +36,7 @@
 ### Course Design Alignment Grid
 
 Fink (2003)
-| Learning Outcome | How Learning Will Be Assessed | Teaching / Learning Activity | Resources |
+| Learning Outcome <br> (Objectives) | How Learning Will Be Assessed | Teaching / Learning Activity | Resources |
 | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
 | <br><br> |  |  |  |
 
