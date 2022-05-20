@@ -131,6 +131,103 @@ You can search online for Bloom's taxonomy and find many figures with descriptiv
   * Assessments
   * Portfolio
 
+### Presenting Information (Teaching)
+
+* Elaborate
+* Relate to students' lives
+* Activate background knowledge
+* Return to big concepts
+* Interleave related concepts
+* Give multiple examples*
+  * Children did better on task they practiced under different circumstances.
+  * Similarities and differences help students to understand concept better.
+* Begin with a recap
+* Use relevant images + limited text*
+  * Pair relevant images with speech
+  * dual coding - auditory and visual channels can process at the same time
+  * memory is better when using dual coding
+  * reading requires both channels so not effective on presentation slides
+  * limit the amount of text
+  * reuse representative images
+* Provide agendas & previews
+* Share the purpose
+* Pause longer
+* Stoke curiosity*
+  * Memory enhances when brain in curious state. (related and unrelated information)
+  * Curiosity related to activity in brain areas dedicated to reward and memory (Gruber, Gelman, Ranganath, 2014) (Kang et al., 2009)
+  * Curiosity piqued for surprising answers.
+  * Curiosity piqued for high-confidence errors.
+  * Have students predict something.
+  * Students spend more resources to learn something they're curious about.
+
+### Teaching wth Transparency
+
+* High impact practices
+* Transparency in Learning and Teaching Resources https://tilthighered.com/tiltexamplesandresources
+* Predictors of success
+  * Academic confidence (self efficacy)
+  * Sense of belonging
+  * Awareness of mastery of skills that employers value most when hiring
+* Better student retention
+
+#### Transparent Assignments
+
+* Purpose
+  * Discuss purpose of assignment ahead of time
+  * Discuss skills that will be practiced
+  * Discuss knowledge that will be gained from the assignment
+  * Discuss how skills and knowledge will relate to real lives
+* Tasks
+  * Outline what the expectations are for the assignments
+  * Outline how it should be done
+  * recommended sequence
+  * mistakes to avoid
+  * Doing this will allow more time to be spent on the task at hand
+* Criteria for Success
+  * Checklist of expectations
+  * Examples of completed work (good and bad)
+
+### Active Learning
+
+#### Keys
+
+* Practice
+* Purpose
+* Student buy-in
+  * Students need to know what they're working for
+  * Agency over learning
+  * Share outcomes with students
+  * Use everyday language
+  * Remind students of desired outcomes often
+* Metacognition and how to learn
+  * Monitor learnging and reflect
+  * Share effective learning strategies with students
+  * Retrieval practice
+  * Spaced learning
+
+#### Methods
+
+* Activate
+  * Any background knowledge already present?
+  * 1 minute reflection
+  * prediction
+* Retrieve
+* Elaborate & Connect
+  * Help students make connections between details
+  * Have students elaborate on responses
+  * Ask why
+* Reflect
+
+#### Activities
+
+* Answering questions
+* Solving problems
+* Talking
+* Reflecting
+* Writing
+* Reading
+* learning goals drive the learning activities
+
 ## Learning Activity Ideas
 
 ### Quizzes
@@ -184,6 +281,8 @@ You can search online for Bloom's taxonomy and find many figures with descriptiv
 * 56 ways to gather evidence of student achievement - https://www.oregon.gov/ode/educator-resources/standards/Documents/CDL%20Digital%20Toolkit/Gathering%20Evidence%20of%20Student%20Achievement.pdf
 * Embedded Formative Assessment - Dylan Wiliam https://www.amazon.com/Embedded-Formative-Assessment-practical-strategies/dp/193400930X
 * Scratch cards - https://learntbl.ca/if-at-immediate-feedback-assessment-technique/
+* Transparency in Learning and Teaching Resources https://tilthighered.com/tiltexamplesandresources
+* Plickers https://get.plickers.com/
 
 ## University of Utah Course Resources
 
