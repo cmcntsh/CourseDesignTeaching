@@ -40,6 +40,59 @@ Fink (2003)
 | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
 | <br><br> |  |  |  |
 
+### Writing Objectives
+
+#### Organization Levels
+
+* University
+* College / School
+* Program 
+* Specialties in Program
+* Course
+* Lesson 
+
+#### Importance Levels
+
+* "Enduring understanding
+  * What do you want students to remember in 5 years?
+* Important to know and do
+* Worth being familiar with
+
+#### Six Facets of Understanding
+
+* Explain
+* Interpret
+* Apply
+* Perspective
+* Empathize
+* Self-Knowledge
+
+#### Bloom's Taxonomy
+
+* Evaluation
+* Synthesis
+* Analysis
+* Application
+* Comprehension
+* Knowledge
+
+You can search online for Bloom's taxonomy and find many figures with descriptive verbs for each level. Those verbs are helpful for writing good objectives.
+
+#### Elements for Course Level Objectives
+
+* Conditions: how, when, where, or with what
+* Performance statement: stated with an action verb (refer to Bloom's taxonomy)
+* Criterion measure: defines the level of performance and product, process, or outcome
+
+| Level | Condition | Performance | Criterion |
+| :-: | :-: | :-: | :-: |
+| Remember | At the end of class, you will be able to | describe what a pedagogically sound learning objective is | in your own words. |
+| Understand | At the end of the lesson, you will be able to | express | the differences between quantitative and qualitative research methods. |
+| Apply | By the end of the semester, each person will be able to | calculate formulas and sketch a graph | utilizing the practices introduced in class and in the textbook. |
+| Analyze | During the lesson, you will | dissect learning objectives | by color-coding the 3 main elements of conditions, performance, and criterion. |
+| Evaluate | You will | critique a classmate's public speaking skills | by considering whether they conform to specifications outlined in our course textbook. |
+| Create | By the end of the training, we will be able to | formulate | a pedagogically sound learning objective. |
+
 ## Learning Activity Ideas
 
 ### Quizzes
