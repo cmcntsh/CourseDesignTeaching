@@ -77,6 +77,7 @@ Fink (2003)
 * Knowledge
 
 You can search online for Bloom's taxonomy and find many figures with descriptive verbs for each level. Those verbs are helpful for writing good objectives.
+Updated: https://ctle.utah.edu/instructor-education/Blooms-Taxonomy.php
 
 #### Elements for Course Level Objectives
 
@@ -286,6 +287,7 @@ You can search online for Bloom's taxonomy and find many figures with descriptiv
 * Transparency in Learning and Teaching Resources https://tilthighered.com/tiltexamplesandresources
 * Plickers https://get.plickers.com/
 * Digital workload estimator https://cat.wfu.edu/resources/tools/estimator2/
+* Updated Bloom's Taxonomy https://ctle.utah.edu/instructor-education/Blooms-Taxonomy.php
 
 ## University of Utah Course Resources
 
