@@ -230,6 +230,101 @@ Updated: https://ctle.utah.edu/instructor-education/Blooms-Taxonomy.php
 * Writing
 * Reading
 * learning goals drive the learning activities
+* Work in small groups
+* Flipped format
+* Small presentations on reading material
+* Discussion boards scavenger hunt
+* Padlet
+* small group breakout rooms
+* Compare/critique other groups' work
+* Time for active learning (activities)
+  * Advanced organizing
+  * 10-12 min lecture
+  * 3-4 min activity
+  * 10-12 min lecture
+  * 3-4 min activity
+  * 10-12 min lecture
+  * 5-6 min summary
+*  Getting to know you animated GIF
+  *  post a PG-rated animated gif clip from a favorite movie or show. How does this clip resonate with you in some way?
+  *  Fee free to tell a short story.
+  *  Have classmates respond and say how it resonates with them.
+
+#### Active Learning Spectrum
+
+Moves from simple to more complex
+* writing - minute paper
+* pause for reflection
+* self assessment
+* large group discussion
+* think-pair-share
+* informal groups
+* triad groups
+* group evaluations
+* peer review
+* brain storming
+* case studies
+* hands-on technology
+* interactive lecture
+* active review sessions (games or simulations)
+* inquiry learning
+* jigsaw discussion
+* forum theater
+* experiential learning (site visits)
+
+## Equitable Pedagogy
+
+* Know names
+* Alternative seating arrangements (not rows)
+* Recognize class members
+* Listen
+* Good feedback on assignments
+* Respond in a timely manner
+* Principles
+  * Mindset
+  * Classroom Environment
+  * Diversity of class members
+* Resource (Asset-based) approaches
+  * Goal: provide access to dominant practices while sustaining home and community practices
+  * View of home and community culture: "resources to honor, explore, and extend"
+* Equity in teaching
+  * Supporting students based on needs, offering more individualized support to overcome barriers to access.
+  * Fairness not necessarily all the same.
+  * Students of color, women, and people with disabilities underrepresented in many fields.
+* Same race mentoring helps.
+* Discuss commitment to equity in classroom.
+* Adopt a working definition with your department/office and plan for creating inclusive and equitable change.
+* A working definition...
+  * Inclusive teaching involves intentionally creating an equitable classroom environment that actively engages all students in meaningful and relevant learning.
+  * It values the contributions of students' diverse backgrounds, and acknowledges systematic and institutional challenges/inequities.
+  * The faculty learning community at the University of Utah.
+* Equitable strategies
+  * Course content and design
+  * course pedagogy
+  * classroom climate
+  * student support
+  * instructor support
+  * Universal Design for Learning (UDL)
+    * multiple modes for communication, engagement, assessment
+    * diverse representations in readings and examples
+  * inclusive syllabus
+  * scaffold learning objectives
+  * contextualize knowledge within current events/culture
+  * Digital accessibility - alt text, color, link text, usable forms
+  * Model inclusive language, respect, kindness
+  * ongoing instructor contact with students
+  * make yourself approachable
+  * scaffold relationship-building between peers
+  * invite students' lived experiences into classrooms
+  * positive reinforcement
+  * recognize student strengths
+  * First day survey
+    * name
+    * pronouns
+    * languages spoken
+    * what do people hope to get out of class?
+    * tell me a bit about your interests
+    * Is there anything you would like me to know to best support your learning in this class?
 
 ## Learning Activity Ideas
 
@@ -288,6 +383,20 @@ Updated: https://ctle.utah.edu/instructor-education/Blooms-Taxonomy.php
 * Plickers https://get.plickers.com/
 * Digital workload estimator https://cat.wfu.edu/resources/tools/estimator2/
 * Updated Bloom's Taxonomy https://ctle.utah.edu/instructor-education/Blooms-Taxonomy.php
+* https://padlet.com/
+* https://www.packback.co/
+* https://info.flipgrid.com/
+* https://quizlet.com/
+* https://kahoot.com/
+* curriculum design patterns http://mams.rmit.edu.au/xwip7swsa289.pdf
+* https://namedrop.io/
+* Design tools in Canvas (Rocket ship at right corner.)
+  * Design Tools: https://lakeland.instructure.com/courses/1455362/pages/design-tools-overview
+* Instructure community https://community.canvaslms.com/t5/Canvas/ct-p/canvas
+* Gradescope
+  * https://www.gradescope.com/
+  * https://support.tlt.utah.edu/hc/en-us/articles/360028308812-Gradescope
+* https://support.tlt.utah.edu/hc/en-us/articles/360058663352-What-is-Annoto
 
 ## University of Utah Course Resources
 
@@ -298,3 +407,15 @@ Updated: https://ctle.utah.edu/instructor-education/Blooms-Taxonomy.php
 * Canvas Commons - search for University of Utah common
   * You can import multiple templates.
   * The syllabus section gets overwritten, so import the template with the syllabus style you want last.
+* Create a new test course in Canvas
+  * CIS - Faculty - Create Canvas test course
+  * Redirected
+  * Course title
+* Center for Teaching and Learning Excellence (CTLE)
+  * Services and programs
+  * Curriculum review and mapping
+  * department workshops
+  * syllabus or course review
+  * observations and focus groups
+  * new faculty training
+  * series of webinars
