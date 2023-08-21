@@ -1,5 +1,9 @@
 # Course Design and Teaching Ideas
 
+## Presentations
+
+* University of Utah Annual Teaching Symposium 2023 (recordings on Canvas) https://utah.instructure.com/courses/907674
+
 ## New Course Considerations
 
 * Textbook
