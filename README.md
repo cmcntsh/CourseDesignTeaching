@@ -276,6 +276,11 @@ Moves from simple to more complex
 * forum theater
 * experiential learning (site visits)
 
+### Course Workload Estimator
+
+* Estimate number of hours per week for students
+  * https://cat.wfu.edu/resources/workload2/
+
 ## Equitable Pedagogy
 
 * Know names
